@@ -1,0 +1,1 @@
+C:\Users\atSprestamo\source\repos\AzureWebAppSQL\AzureWebAppSQL\obj\Debug\AzureWebAppSQL.deployproj.CoreCompileInputs.cache
